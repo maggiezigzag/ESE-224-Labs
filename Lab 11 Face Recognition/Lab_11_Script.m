@@ -1,0 +1,1 @@
+p = genpath('att_faces');
